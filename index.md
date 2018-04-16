@@ -3,8 +3,6 @@ title: The Road to Test Driven Development
 description: On the road again
 ---
 
-# The Road to Test Driven Development
-
 1. Identify the bad code.
 
     Code smells and anti-patterns.
