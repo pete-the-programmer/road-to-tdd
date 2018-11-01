@@ -8,7 +8,7 @@ Designing reliable software is best done incrementally using evidence-based assu
 
 This course is delivered with a mix of teaching concepts, real hands-on coding, and a broad range of freely available extension materials to allow developers to really get to grips with the benefit of a TDD discipline.
 
-![Teaching](/images/teaching.png)
+![Teaching](assets/images/teaching.png)
 
 ## Breakdown
 
@@ -33,7 +33,7 @@ Real software can be complex, and to be useful it needs to interact with the res
 Evolve your production software with a simple, clear design and exceedingly good test coverage.  Learn the rhythms of building behaviour expectations before implementations and create software that does just what is desired and little else.
 
 
-![Excellent Software](images/master.png "Excellent software")
+![Excellent Software](assets/images/master.png "Excellent software")
 
 ## Learning Outcomes
 
