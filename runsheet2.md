@@ -43,6 +43,7 @@ Interesting:
 - code that's called from _everywhere_
 - code with lot's of impact - anything with people's money or welfare
 - code we're unsure about
+- code that has a bug
 - code that has effects in "unrelated" areas 
 - the behaviour that is specific to the code
 - Use Your Judgement
