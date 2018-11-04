@@ -24,7 +24,7 @@ Show the resource look through some titles
 
 * Dead Code
 
-## 10:10 Refactoring
+## 10:00 Refactoring
 
 What is _Refactoring_
 
@@ -39,7 +39,7 @@ Create a common language of how to manipulate code as a structure, rather than t
 
 [Reference](https://refactoring.guru/refactoring/techniques){:target="_present"}
 
-## 10:20 Break
+## 10:15 Break
 
 ## 10:30 Exercise: Refactoring 1
 
@@ -53,5 +53,16 @@ Focus on:
 - _pull up_
 
 Do it once. If we have time, demo it and then do it as a class again.
+
+## 11:00 Exercise: Refactoring 2
+
+
+[Smells](https://refactoring.guru/refactoring/smells){:target="_present"}:
+- Primitive Obsession
+- Temporary Field
+
+[Exercise: Narrowed change] (todo)
+
+Narrowed change and scaffolding
 
 ## Lunch

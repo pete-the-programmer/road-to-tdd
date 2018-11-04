@@ -4,38 +4,60 @@ description: Runsheet
 layout: default
 ---
 
-## 13:00 Exercise: Refactoring 2
+## 13:00 Micro Testing
 
-[Smells](https://refactoring.guru/refactoring/smells){:target="_present"}:
-- Long method
+What is a _Micro-Test_?
 
+Spiffy
+- __S__ mall
+- __P__ recise
+- __I__ ndependent
+- __F__ ast
+- __F__ lexible
+- y
 
-[Exercise: Long Add](https://pete-the-programmer.com/tdd-ex-refactor2/){:target="_exercise"}
+3 Axes:
+- Complexity: easy-hard
+- Collaboration: solo-group
+- Timing: after-before
 
-## 14:45 Break
+Optional structure of a micro test:
+- Three As: Arrange, Act, Assert
+- Fixtures: setup, test, teardown
 
-## 15:00 Exercise: Refactoring 3
+## 13:30 Exercise
 
+Test after code, simple code
 
-[Smells](https://refactoring.guru/refactoring/smells){:target="_present"}:
-- Primitive Obsession
-- Temporary Field
+[Hangman?] (not complete)
 
-[Exercise: Narrowed change] (todo)
+## 14:30 Test Thinking
 
-Narrowed change and scaffolding
+What should we test and what are the goals of micro testing?
+Not:
+- 100% coverage 
+- One test per method
+- Catch-em-all! Find every possible bug
 
-## 16:15
+Interesting:
+- code that's called from _everywhere_
+- code with lot's of impact - anything with people's money or welfare
+- code we're unsure about
+- code that has effects in "unrelated" areas 
+- the behaviour that is specific to the code
+- Use Your Judgement
 
-Strategies for larger (long-term) refactoring:
-- Narrowed Change
-- Parallel streams (and gradual switch-over)
+## 15:00 Break
 
+## 15:15 Exercise 
+
+Test after code, complex code
+
+[Hangman2] (not complete)
 
 ## 16:30 Wrap up
 
 Now you can: 
 - Identify and classify code smells in production code [(here)](https://refactoring.guru/refactoring/smells){:target="_present"}
 - Use a library of refactoring techniques to remove code smells without breaking functionality [(here)](https://refactoring.guru/refactoring/techniques){:target="_present"}
-
-Next Up: Testing
+- Design and implement micro-tests to detect existing production code functionality changes
