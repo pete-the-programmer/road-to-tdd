@@ -9,7 +9,7 @@ layout: default
 ## 9:30 Code Smells
 
 What are _Code smells_
-- a kind of technical debt (what's that) [video](assets/images/techdebt_small.mp4){:target="_media"}
+- a kind of technical debt (what's that) [video](assets/images/techdebt_small.mp4){:target="_present"}
 - develop a nose for bad smelling code
 
 Ref: [Reference](https://refactoring.guru/refactoring/smells){:target="_present"}
@@ -46,7 +46,7 @@ Create a common language of how to manipulate code as a structure, rather than t
 [Smells](https://refactoring.guru/refactoring/smells){:target="_present"}:
 - Speculative Generality
 
-[Exercise: Vehicles](https://pete-the-programmer.com/tdd-ex-refactor1/){:target="_exercise"}
+[Exercise: Vehicles](https://pete-the-programmer.com/tdd-ex-refactor1/){:target="_present"}
 
 Focus on:
 - making the bus and ferry the __same__ with _rename_ and _extract method_/_inline_

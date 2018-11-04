@@ -1,0 +1,29 @@
+---
+---
+
+body{
+    background-color: #002635;
+    color: #ff4427;
+    background-image: url('../images/doubleo_dark.png');
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    padding-top: 120px;
+}
+
+.markdown-body, .markdown-body p, .markdown-body li {
+    color: #ff4427;
+}
+
+.markdown-body ul li {
+    list-style-image: none;
+    list-style-type: disc;
+}
+
+.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, h1, h2, h3, h4 {
+    color: white;
+    border: none;
+} 
+
+.markdown-body footer{
+    margin-top: 2em;
+}
