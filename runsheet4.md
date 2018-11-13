@@ -8,9 +8,9 @@ layout: default
 
 What is a _TDD_?
 
-[Classic TDD Cycle](assets/images/tdd.png){:target="_present"}
+[Classic TDD Cycle](assets/images/tdd_black.png){:target="_present"}
 
-[...with integrate step](assets/images/tdd4.png){:target="_present"}
+[...with integrate step](assets/images/tdd4_black.png){:target="_present"}
 
 TDD and Formal Design discussion:
 - [what is design?](what_is_design){:target="_present"}
