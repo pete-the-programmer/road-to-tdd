@@ -25,13 +25,8 @@ Optional structure of a micro test:
 - Three As: Arrange, Act, Assert
 - Fixtures: setup, test, teardown
 
-## 13:30 Exercise
 
-Test after code, simple code
-
-[Hangman?] (not complete)
-
-## 14:30 Test Thinking
+## 13:30 Test Thinking
 
 What should we test and what are the goals of micro testing?
 Not:
@@ -47,6 +42,13 @@ Interesting:
 - code that has effects in "unrelated" areas 
 - the behaviour that is specific to the code
 - Use Your Judgement
+
+## 14:00 Exercise
+
+Test after code, simple code
+
+[Hangman](https://pete-the-programmer.com/tdd-ex-micro1/)
+
 
 ## 15:00 Break
 
