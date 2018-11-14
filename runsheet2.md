@@ -43,7 +43,7 @@ Interesting:
 - the behaviour that is specific to the code
 - Use Your Judgement
 
-## 14:00 Exercise
+## 14:00 Exercise - Hangman
 
 Test after code, simple code
 
@@ -52,11 +52,18 @@ Test after code, simple code
 
 ## 15:00 Break
 
-## 15:15 Exercise 
+## 15:15 Exercise - Hangman words
 
 Test after code, complex code
 
-[Hangman2] (not complete)
+[Hangman ``advanced``](https://pete-the-programmer.com/tdd-ex-micro1/advanced){:target="_present"}
+
+## 16:00 Exercise - with Moq
+
+Reset to the ``advanced`` branch root and try again after introducing [MoQ](https://raw.githubusercontent.com/moq/moq4/master/README.md){:target="_present"}
+
+[Hangman ``advanced``](https://pete-the-programmer.com/tdd-ex-micro1/advanced){:target="_present"}
+
 
 ## 16:30 Wrap up
 
