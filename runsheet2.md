@@ -47,7 +47,7 @@ Interesting:
 
 Test after code, simple code
 
-[Hangman](https://pete-the-programmer.com/tdd-ex-micro1/)
+[Hangman](https://pete-the-programmer.com/tdd-ex-micro1/){:target="_present"}
 
 
 ## 15:00 Break
