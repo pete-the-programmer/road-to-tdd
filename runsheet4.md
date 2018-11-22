@@ -12,7 +12,7 @@ What is a _TDD_?
 
 [...with integrate step](assets/images/tdd4_black.png){:target="_present"}
 
-TDD and Formal Design discussion:
+...But where does the design fit into this?
 - [what is design?](what_is_design){:target="_present"}
 - In TDD design is _Inverted_  (design-code-test -> test-code-design)
 - in TDD design is _Distributed_ (each step improves and informs the design)
@@ -21,6 +21,8 @@ TDD and Formal Design discussion:
 ### 14:00 Exercise TDD
 
 Test before code, increasing complexity (refer to axes of testing)
+
+[Transformation Priority Premise](http://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html){:target="_present"}
 
 [Total Complexity Games](https://pete-the-programmer.com/tdd-ex-tdd-final/){:target="_present"}
 

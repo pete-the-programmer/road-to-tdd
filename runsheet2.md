@@ -52,18 +52,11 @@ Test after code, simple code
 
 ## 15:00 Break
 
-## 15:15 Exercise - Hangman words
+## 15:15 Exercise - Hangman complexity
 
 Test after code, complex code
 
-[Hangman ``advanced``](https://pete-the-programmer.com/tdd-ex-micro1/advanced){:target="_present"}
-
-## 16:00 Exercise - with Moq
-
-Reset to the ``advanced`` branch root and try again after introducing [MoQ](https://raw.githubusercontent.com/moq/moq4/master/README.md){:target="_present"}
-
-[Hangman ``advanced``](https://pete-the-programmer.com/tdd-ex-micro1/advanced){:target="_present"}
-
+[Player Ranking](https://pete-the-programmer.com/tdd-ex-micro2){:target="_present"}
 
 ## 16:30 Wrap up
 
