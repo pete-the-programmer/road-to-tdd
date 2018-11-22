@@ -21,7 +21,7 @@ What happens when things go wrong?  How should you app behave? Do you even know?
 
 Test after code, code with exceptions
 
-[Hangman with broken dependency] (todo)
+[Hangman ``broken``](https://pete-the-programmer.com/tdd-ex-micro1/){:target="_present"}
 
 ## 10:15 Break
 
@@ -42,16 +42,16 @@ Definitions [(by Fowler)](https://martinfowler.com/bliki/TestDouble.html){:targe
 
 ## 11:00 Exercise Stubbing by hand
 
-Use the same exercise and stub out the dependency.  The tests should still pass.
+Checkout the ``advanced`` branch.
 
-[Hangman with broken dependency] (todo)
+[Hangman ``advanced``](https://pete-the-programmer.com/tdd-ex-micro1/advanced){:target="_present"}
 
 ## 11:30 Exercise Mocking using a library
 
-Intro to Moq (may need intro to lambdas?)
+Intro to [MoQ](https://raw.githubusercontent.com/moq/moq4/master/README.md) (may need intro to lambdas?)
 
-Use the same exercise and stub out using moq.  Use verify all expectations met at the end.
+Reset to the ``advanced`` branch root and try again after introducing {:target="_present"}
 
-[Hangman with broken dependency] (todo)
+[Hangman ``advanced``](https://pete-the-programmer.com/tdd-ex-micro1/advanced){:target="_present"}
 
 ## Lunch
