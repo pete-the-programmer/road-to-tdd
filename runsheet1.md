@@ -61,7 +61,7 @@ Do it once. If we have time, demo it and then do it as a class again.
 - Primitive Obsession
 - Temporary Field
 
-[Exercise: Narrowed change] (todo)
+[Exercise: Narrowed change](https://pete-the-programmer.com/tdd-ex-refactor2/){:target="_present"}
 
 Narrowed change and scaffolding
 

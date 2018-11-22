@@ -4,7 +4,7 @@ description: Runsheet 3
 layout: default
 ---
 
-## 9:00 Advanced Testing
+## 9:00 Recap
 
 Recap from last time.  What have we learned?
 - spiffy
@@ -12,16 +12,27 @@ Recap from last time.  What have we learned?
 - name some refactoring techniques
 - favourite smell
 
+Why are we doing this? (Cynefin)
+
+## 9:20 Advanced Testing
+
 Context: Testing pyramid
 
-What happens when things go wrong?  How should you app behave? Do you even know?
+Side-effects
+
+Exceptions:
+- What happens when things go wrong?  
+- How should you app behave?
+- Do you even know?
 - Testing exceptions and alternate flows
 
-## 9:30 Exercise
+## 9:40 Exercise
 
-Test after code, code with exceptions
+Test after code, code with exceptions:
+- Making a guess when the game is done -> AppException
+- Guessing a non-letter or a capital letter
 
-[Hangman ``broken``](https://pete-the-programmer.com/tdd-ex-micro1/){:target="_present"}
+[Hangman](https://pete-the-programmer.com/tdd-ex-micro1/){:target="_present"}
 
 ## 10:15 Break
 
@@ -48,9 +59,9 @@ Checkout the ``advanced`` branch.
 
 ## 11:30 Exercise Mocking using a library
 
-Intro to [MoQ](https://raw.githubusercontent.com/moq/moq4/master/README.md) (may need intro to lambdas?)
+Intro to [MoQ](https://raw.githubusercontent.com/moq/moq4/master/README.md){:target="_present"} (may need intro to lambdas?)
 
-Reset to the ``advanced`` branch root and try again after introducing {:target="_present"}
+Reset to the ``advanced`` branch root and try again after introducing 
 
 [Hangman ``advanced``](https://pete-the-programmer.com/tdd-ex-micro1/advanced){:target="_present"}
 
