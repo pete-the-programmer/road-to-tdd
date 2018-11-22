@@ -49,3 +49,6 @@ An IDE that has includes refactoring automation for the desired language is impo
 - Eclipse or IntelliJ for Java
 - Visual Studio (with Resharper) for C#/C
 
+
+
+<img src="assets/images/doubleo_footer.png"/>
