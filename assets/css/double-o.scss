@@ -1,13 +1,33 @@
 ---
 ---
 
+$color-main: #ff4427;
+$color-highlight: white;
+$color-accent: #ff7c68;
+
 body{
     background-color: #002635;
-    color: #ff4427;
+    color: $color-main;
+}
+body.full-double0{
+    background-image: url('../images/doubleo_dark.png');
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    padding-top: 120px;
 }
 
-.markdown-body, .markdown-body p, .markdown-body li {
-    color: #ff4427;
+.markdown-body, .markdown-body p, .markdown-body li{
+    color: $color-main;
+}
+
+.markdown-body a, .markdown-body:visited {
+    color: $color-accent;
+}
+
+.markdown-body hr {
+    background-color: $color-main;
+    height: 0.1em;
+    opacity: 0.5;
 }
 
 .markdown-body ul li {
@@ -16,7 +36,7 @@ body{
 }
 
 .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, h1, h2, h3, h4 {
-    color: #ff4427;
+    color: $color-highlight;
     border: none;
 } 
 
@@ -48,13 +68,13 @@ body{
     background: transparent;
     width: 25%;
     padding: 0.5em;
-    color: white;
+    color: $color-highlight;
     vertical-align: top;
     padding-top: 1em;
 }
 
 .markdown-body table.module td {
-    border-left: 1px solid white;
+    border-left: 1px solid $color-highlight;
 }
 
 .markdown-body table.module tr td:first-child {
