@@ -7,3 +7,7 @@
 .markdown-body ul li {
     list-style-image: url("https://cdn2.iconfinder.com/data/icons/basicset/tick_16.png");
 }
+
+.markdown-body h1 > .description {
+    font-style: italic;
+}
