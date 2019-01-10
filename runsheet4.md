@@ -45,3 +45,5 @@ So test:
 Now you can: 
 - Isolate interesting code components for testing independently
 - Understand how micro-testing fits into quality control framework
+
+__What Now?__ : What specific thing will you do different _tomorrow_ due to this course.

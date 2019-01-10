@@ -18,25 +18,9 @@ Why are we doing this? (Cynefin)
 
 Context: Testing pyramid
 
-Side-effects
+Side effects
 
-Exceptions:
-- What happens when things go wrong?  
-- How should you app behave?
-- Do you even know?
-- Testing exceptions and alternate flows
-
-## 9:40 Exercise
-
-Test after code, code with exceptions:
-- Making a guess when the game is done -> AppException
-- Guessing a non-letter or a capital letter
-
-[Hangman](https://pete-the-programmer.com/tdd-ex-micro1/){:target="_present"}
-
-## 10:15 Break
-
-## 10:30 Test doubles, Fakes and Mocks
+## 9:30 Test doubles, Fakes and Mocks
 
 Reflect on previous exercise:
 - Is this test even a micro-test? (draw dependency diagram)
@@ -51,13 +35,15 @@ Definitions [(by Fowler)](https://martinfowler.com/bliki/TestDouble.html){:targe
 - Spy: a fake or stub that remembers how it was used for interrogation by the test
 - Mock: a double that verifies all expected calls were made
 
-## 11:00 Exercise Stubbing by hand
+## 10:00 Break
+
+## 10:15 Exercise Stubbing by hand
 
 Checkout the ``advanced`` branch.
 
 [Hangman ``advanced``](https://pete-the-programmer.com/tdd-ex-micro1/advanced){:target="_present"}
 
-## 11:30 Exercise Mocking using a library
+## 11:15 Exercise Mocking using a library
 
 Intro to [MoQ](https://raw.githubusercontent.com/moq/moq4/master/README.md){:target="_present"} (may need intro to lambdas?)
 

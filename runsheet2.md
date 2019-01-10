@@ -43,12 +43,17 @@ Interesting:
 - the behaviour that is specific to the code
 - Use Your Judgement
 
+Exceptions:
+- What happens when things go wrong?  
+- How should you app behave?
+- Do you even know?
+- Testing exceptions and alternate flows
+
 ## 14:00 Exercise - Hangman
 
 Test after code, simple code
 
 [Hangman](https://pete-the-programmer.com/tdd-ex-micro1/){:target="_present"}
-
 
 ## 15:00 Break
 
@@ -64,3 +69,5 @@ Now you can:
 - Identify and classify code smells in production code [(here)](https://refactoring.guru/refactoring/smells){:target="_present"}
 - Use a library of refactoring techniques to remove code smells without breaking functionality [(here)](https://refactoring.guru/refactoring/techniques){:target="_present"}
 - Design and implement micro-tests to detect existing production code functionality changes
+
+__Homework__ : Look for smells in _your_ code and report back _specific_ examples.  Also, write a unit test (even one!).
