@@ -14,15 +14,16 @@ What are _Code smells_
 
 Ref: [Reference](https://refactoring.guru/refactoring/smells){:target="_present"}
 
-Show the resource look through some titles
+Show the resource look through some titles.
 
-* Comment 
+[Samples](smells/index)
 
 * Naming (not in resource)
-
 * Duplication
-
 * Dead Code
+* [Long Method](smells/long_method){:target="_present"}
+* [Comment](smells/comment){:target="_present"}
+* [Primitive Obsession](smells/primitive_obsession){:target="_present"}
 
 ## 10:00 Refactoring
 
