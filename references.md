@@ -19,6 +19,7 @@ layout: doubleofull
 * [What is design?](what_is_design){:target="_present"}
 * [Incremental Design](https://blog.crisp.se/wp-content/uploads/2016/01/mvp.png){:target="_present"}
 * [Transformation Priority Premise](http://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html){:target="_present"}
+* [Cynefin](https://en.wikipedia.org/wiki/Cynefin_framework){:target="_present"}
 
 ### Acronyms
 
@@ -44,7 +45,7 @@ Code should be:
 
 ### Terms
 - Should refactor code to reduce _Cognitive Load_
-- Should refactor code to enhance _Scanability_
+- Should refactor code to enhance _Scannability_
 - Should test behaviours that are _Interesting_
 - Design in TDD is _Inverted_, _Distributed_, and _Emergent_
 
