@@ -14,6 +14,8 @@ What are _Code smells_
 
 Ref: [Reference](https://refactoring.guru/refactoring/smells){:target="_present"}
 
+Ref (SQL): [SQL Reference](https://www.red-gate.com/simple-talk/sql/t-sql-programming/sql-code-smells/){:target="_present"}
+
 Show the resource look through some titles.
 
 [Samples](smells/index)
