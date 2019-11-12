@@ -11,6 +11,7 @@ layout: doubleofull
 ### Information sources & Diagrams
 
 * [Code Smells](https://refactoring.guru/refactoring/smells){:target="_present"}
+* [SQL Code Smells](https://www.red-gate.com/simple-talk/sql/t-sql-programming/sql-code-smells/){:target="_present"}
 * [Refactoring Techniques](https://refactoring.guru/refactoring/techniques){:target="_present"}
 * [Testing pyramid](https://medium.com/@timothy.cochran/test-pyramid-the-key-to-good-automated-test-strategy-9f3d7e3c02d5){:target="_present"}
 * [Test doubles - fakes/stubs/mocks](https://martinfowler.com/bliki/TestDouble.html){:target="_present"}
